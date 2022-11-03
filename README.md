@@ -1,4 +1,8 @@
-# Li_single_cell_BMD
+# Li_single_cell_BMS
+
+
+<img src="./Kicad_screenshots/3D_render.png" width="500" height="500">
+
  -This is a Battery Management System (BMS) for a single cell Li-ion or Li-Po battery. I am currently on version 1 of this design, the PCB has been ordered along with the parts and I will assemble and test it when everything arrives.
 
 
@@ -20,4 +24,4 @@
 - Charging and fully charged LED status indicator
 
 # Improvements for version 2:
--
+- [ ] Re-arange the reference designators on the PCB silkscreen
