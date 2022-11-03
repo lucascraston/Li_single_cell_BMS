@@ -12,8 +12,12 @@
 -I will also be performing thorough tests on the board to verify its functionilty and I will record the results to upload them. To accompany the tests, I am aiming to complete a Worst Case Circuit Analysis (WCCA) of my design BEFORE I assemble and test. This will help me with determining the expected operating region for each part to ensure I meet my requirments, and to ensure I am within the manufacturers limits.
 
 # Tests to perform:
--
-
+- [ ] Verify discharge overcurrent and short circuit functionality (Based off N-channel MOSFETs Rds-ON)
+- [ ] Test P-channel MOSFET load switch when 5V is applied
+- [ ] Verify charge current (Based off resistor choice)
+- [ ] verify UVP & OVP charge parameters of charger IC (Based off individual IC)
+- [ ] Test charge overcurrent value (The battery should never reach this charge current based on IC choice, use lab PSU)
+- [ ] Verify  OVP & UVP parameters of protection IC (Based off individual IC)
 # Features of Version 1:
 - 0-500 mA charging rate
 - Over charge protection 
