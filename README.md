@@ -21,13 +21,15 @@
 - [ ] Verify  OVP & UVP parameters of protection IC (Based off individual IC)
 # Version 1 Features:
 - 0-500 mA charging rate
-- Over charge protection 
-- Over discharge protection 
+- Over voltage charge protection 
+- Under voltage discharge protection 
 - Over current discharge protection 
+- Over current charge protection
 - Short circuit protection
-- Load disconnects when plugged in to charge
+- Load disconnects when charging
 - Charging and fully charged LED status indicator
+- USB mini B receptacle for charging
 
 # Improvements to be made:
-- [ ] Re-arange the reference designators on the PCB silkscreen
 - [ ] 5V / 3.3V output rails
+
