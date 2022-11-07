@@ -32,4 +32,5 @@
 
 # Improvements to be made:
 - [ ] 5V / 3.3V output rails
+- [ ] Go from 2 layer to 4 layer board
 
