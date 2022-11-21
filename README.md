@@ -23,8 +23,8 @@
 - 0-500 mA charging rate
 - Over voltage charge protection: OVP = 4.28V 
 - Under voltage discharge protection: UVP = 2.8V 
-- Over current discharge protection: OCD = 0.09V(Vss to V-)
-- Over current charge protection: OCC = -0.09V 09V(Vss to V-)
+- Over current discharge protection: OCD = 0.09V (Vss to V-)
+- Over current charge protection: OCC = -0.09V 09V (Vss to V-)
 - Short circuit protection: SCD = 0.3V
 - Load disconnects when charging
 - Charging and fully charged LED status indicator
