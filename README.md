@@ -31,7 +31,21 @@
 - USB mini B receptacle for charging
 
 # Improvements to be made:
-- [ ] 5V / 3.3V output rails
+- [ ] 5V boost and 3.3V LDO output rails
 - [ ] Go from 2 layer to 4 layer board
 - [ ] Onboard battery percentage / status indicator. Maybe this is not neccessary if we are interfacing with a MCU?
+- [ ] 5M gate to source pull down resistors
+- [ ] 5V input pad to charge battery without USB
+- [ ] Dual MOSFET array package to reduce size and cost
+- [ ] 1W current sense resistor to make the current limit easier to adjust and test
+
+
+# Build and Testing
+<img src="built_board.jpg" width="612" height="816">
+
+The boards arrived and I have built two so far. I have tested them and everything seems to be working. I am hoping to create a document that outlines each test case and records the testing data to share it on here. I would like to create an automated test script for my scope but It would be difficult without a programmabled PSU...one day.
+
+# To be completed
+- [ ] WCCA 
+- [ ] Testing documentation
 
