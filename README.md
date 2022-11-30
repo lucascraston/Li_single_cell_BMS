@@ -1,8 +1,9 @@
 # Li_single_cell_BMS
 
-
-<img src="./Kicad_screenshots/3D_render.png" width="300" height="300"><img src="built_board.jpg" width="300" height="300">
-
+<p>
+<img src="./Kicad_screenshots/3D_render.png" width="300" height="300">
+<img src="built_board.jpg" width="300" height="300">
+</p>
  -This is a Battery Management System (BMS) for a single cell Li-ion or Li-Po battery. I am currently on version 1 of this design, the PCB has been ordered along with the parts and I will assemble and test it when everything arrives.
 
 
