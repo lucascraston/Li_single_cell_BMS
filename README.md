@@ -1,7 +1,7 @@
 # Li_single_cell_BMS
 
 
-<img src="./Kicad_screenshots/3D_render.png" width="500" height="500">
+<img src="./Kicad_screenshots/3D_render.png" width="500" height="500"><img src="built_board.jpg" width="500" height="500">
 
  -This is a Battery Management System (BMS) for a single cell Li-ion or Li-Po battery. I am currently on version 1 of this design, the PCB has been ordered along with the parts and I will assemble and test it when everything arrives.
 
@@ -41,7 +41,6 @@
 
 
 # Build and Testing
-<img src="built_board.jpg" width="612" height="816">
 
 The boards arrived and I have built two so far. I have tested them and everything seems to be working. I am hoping to create a document that outlines each test case and records the testing data to share it on here. I would like to create an automated test script for my scope but It would be difficult without a programmabled PSU...one day.
 
